@@ -3,6 +3,9 @@ bin/
 obj/
 libs/
 .toolcache/
+out/
+jni/build-android/
+jni/build-android-x86_64/
 
 # Keystores and Security
 key.jks

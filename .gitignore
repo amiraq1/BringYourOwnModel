@@ -1,0 +1,11 @@
+# Build Artifacts
+bin/
+obj/
+libs/
+.toolcache/
+
+# Keystores and Security
+key.jks
+
+# Editor files
+.DS_Store
